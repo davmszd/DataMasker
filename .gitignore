@@ -1,0 +1,17 @@
+[Bb]in/
+[Oo]bj/
+Build/
+packages/
+.build/packages/
+.build/paket.lock
+.paket/paket.exe
+.vs/
+.idea/
+.vagrant/
+.output/
+*.suo
+*.user
+actual-licenses.csv
+
+# Package Verifier tool (https://info.red-gate.com/x/SAmjAQ)
+packages-duplicates.csv
